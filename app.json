@@ -1,7 +1,7 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "NIDU-MD",
+  "description": "NIDU-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "logo": "https://ibb.co/Zpp4FfTm/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -22,7 +22,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "group"
     }, 
 
     "AUTO_VOICE": {
@@ -46,13 +46,13 @@
     "AUTO_STATUS_REPLY": {
       "description": "Statues reply",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
     "STATUS_REPLY_MSG": {
       "description": "Statues reply msg",
       "required": true,
-      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
+      "value": "*_`AUTO STATUS JUST NOW SEEN BY NIDU MD`_*"
     },
     
     "AUTO_STATUS_REACT": {
@@ -100,7 +100,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if show you are always online it false if show your last seen",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
     "ANTI_DELETE": {
